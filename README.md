@@ -1,17 +1,14 @@
-# ctd_Advance_Prework
-Created with CodeSandbox
-# ctd_Advance_Prework
-Created with CodeSandbox
 
 # Star Wars API Demo
 This is a small demo application that uses the Star Wars API to display information about characters and films from the Star Wars universe.
+Created with CodeSandbox
 
 # Technologies Used
 The following technologies were used in this project:
 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 Fetch API
 
 # How to Use
